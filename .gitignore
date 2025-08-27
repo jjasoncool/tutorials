@@ -3,3 +3,6 @@
 
 # Jetbrains
 .idea/
+
+# trace files
+*.et
