@@ -356,5 +356,3 @@ sudo chown -R $USER:$USER ./astra-sim/
 - **功能建議**: [GitHub Discussions](https://github.com/astra-sim/astra-sim/discussions)
 - **學術合作**: astra-sim-dev@lists.gatech.edu
 - **商業支援**: 請透過官方網站聯絡
-
----
