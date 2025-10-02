@@ -3,7 +3,7 @@ set -e
 
 # Path
 SCRIPT_DIR=$(dirname "$(realpath $0)")
-ASTRA_SIM_BUILD_DIR=${SCRIPT_DIR}/../../astra-sim/extern/network_backend/ns-3/build/scratch/
+ASTRA_SIM_BUILD_DIR=${SCRIPT_DIR}/../../../../astra-sim/extern/network_backend/ns-3/build/scratch/
 ASTRA_SIM=./ns3.42-AstraSimNetwork-default
 
 # Run ASTRA-sim
