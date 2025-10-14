@@ -7,3 +7,4 @@
 # trace files
 *.et
 *.pdf
+hdt_*.json
